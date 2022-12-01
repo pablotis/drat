@@ -7,6 +7,13 @@ License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
 
+Package: dstools
+Version: 0.1.0
+Suggests: testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: 3f4c40a5029d9fb659b1dbf1683b797f
+NeedsCompilation: no
+
 Package: makeup
 Version: 1.1.0
 Depends: R (>= 3.1)
